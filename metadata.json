@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Clase 10",
+  "description": "Aplicación para gestionar nombres y notas de matemáticas y lengua de un grupo de 10 alumnos, con estadísticas y visualizaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
